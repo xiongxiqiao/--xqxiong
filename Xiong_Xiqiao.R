@@ -1,3 +1,5 @@
+# It is a part of project of R programming.
+
 options(max.print=10000000)
 options(scipen = 999)
 st <- system.time( {
